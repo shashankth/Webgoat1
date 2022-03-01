@@ -17,10 +17,10 @@
 
 ### New functionality
 
-- New Docker image for arm64 architecture is now available (for Apple M1)
+- New Docker image for arm64 architecture is now available ((for Apple M1))
 
 
-## Version 8.2.0
+## Version 8.2.0.
 
 ### New functionality
 
