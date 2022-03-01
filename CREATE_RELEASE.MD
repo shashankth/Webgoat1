@@ -13,7 +13,7 @@ committers.
 
 At the moment we use Gitflow, for a release you create a new release branch and take the following steps:
 
-```
+``
 git checkout develop
 git flow release start <version> 
 git flow release publish
