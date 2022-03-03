@@ -6,7 +6,7 @@
 
 - Docker image now supports nginx when browsing to http://localhost a landing page is shown. 
 
-### Bug fixes
+### Bug fixes.
 
 - [#1039 jwt-7-Code review](https://github.com/WebGoat/WebGoat/issues/1039)
 - [#1031 SQL Injection (intro) 5: Data Control Language (DCL) the wiki's solution is not correct](https://github.com/WebGoat/WebGoat/issues/1031)
