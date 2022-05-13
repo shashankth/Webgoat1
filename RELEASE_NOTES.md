@@ -3,7 +3,7 @@
 ## Version 8.2.2
 
 ### New functionality
-
+teat
 - Docker image now supports nginx when browsing to http://localhost a landing page is shown. 
 
 ### Bug fixes
